@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/aitco/static/css/main.9a809218.chunk.css",
+    "main.js": "/aitco/static/js/main.7786e0fd.chunk.js",
+    "main.js.map": "/aitco/static/js/main.7786e0fd.chunk.js.map",
+    "runtime-main.js": "/aitco/static/js/runtime-main.48bda9c4.js",
+    "runtime-main.js.map": "/aitco/static/js/runtime-main.48bda9c4.js.map",
+    "static/css/2.43e3cdd6.chunk.css": "/aitco/static/css/2.43e3cdd6.chunk.css",
+    "static/js/2.8d3e6d51.chunk.js": "/aitco/static/js/2.8d3e6d51.chunk.js",
+    "static/js/2.8d3e6d51.chunk.js.map": "/aitco/static/js/2.8d3e6d51.chunk.js.map",
+    "index.html": "/aitco/index.html",
+    "precache-manifest.460ab0eb80ee5294f46f6be35d27159c.js": "/aitco/precache-manifest.460ab0eb80ee5294f46f6be35d27159c.js",
+    "service-worker.js": "/aitco/service-worker.js",
+    "static/css/2.43e3cdd6.chunk.css.map": "/aitco/static/css/2.43e3cdd6.chunk.css.map",
+    "static/css/main.9a809218.chunk.css.map": "/aitco/static/css/main.9a809218.chunk.css.map",
+    "static/js/2.8d3e6d51.chunk.js.LICENSE.txt": "/aitco/static/js/2.8d3e6d51.chunk.js.LICENSE.txt",
+    "static/media/ABADIALJOHERProject.png": "/aitco/static/media/ABADIALJOHERProject.11a8c741.png",
+    "static/media/CityWalkProject.png": "/aitco/static/media/CityWalkProject.493ca2e2.png",
+    "static/media/DiscoveryBLVDProject.png": "/aitco/static/media/DiscoveryBLVDProject.bf202d75.png",
+    "static/media/EquestrianClubProject.png": "/aitco/static/media/EquestrianClubProject.834d028c.png",
+    "static/media/FALCONGATEProject.png": "/aitco/static/media/FALCONGATEProject.b8ae5b71.png",
+    "static/media/MountainBLVDProject.png": "/aitco/static/media/MountainBLVDProject.d34e3eeb.png",
+    "static/media/NinjaWarriorBLVDProject.png": "/aitco/static/media/NinjaWarriorBLVDProject.615cac16.png",
+    "static/media/OURGOALS.png": "/aitco/static/media/OURGOALS.e1ee4435.png",
+    "static/media/QAULITYANDSAFTY.png": "/aitco/static/media/QAULITYANDSAFTY.af3d671f.png",
+    "static/media/SUPERDOMProject.png": "/aitco/static/media/SUPERDOMProject.c53cc851.png",
+    "static/media/THEKINGDOMARENAProject.png": "/aitco/static/media/THEKINGDOMARENAProject.994d1ce5.png",
+    "static/media/TheVenueProject.png": "/aitco/static/media/TheVenueProject.5ca4c971.png",
+    "static/media/avatar.webp": "/aitco/static/media/avatar.cad5a1bd.webp",
+    "static/media/chan-dung-edit.png": "/aitco/static/media/chan-dung-edit.cad5a1bd.png",
+    "static/media/engsalah1.png": "/aitco/static/media/engsalah1.3e73d16f.png",
+    "static/media/engsalah2.png": "/aitco/static/media/engsalah2.b5e8ee0f.png",
+    "static/media/full-nguoi-edit.webp": "/aitco/static/media/full-nguoi-edit.cad5a1bd.webp",
+    "static/media/slick-theme.css": "/aitco/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48bda9c4.js",
+    "static/css/2.43e3cdd6.chunk.css",
+    "static/js/2.8d3e6d51.chunk.js",
+    "static/css/main.9a809218.chunk.css",
+    "static/js/main.7786e0fd.chunk.js"
+  ]
+}
