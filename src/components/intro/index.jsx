@@ -21,7 +21,7 @@ const Greeting = () => {
       <div className="left-column">
         <img className="avatar" src={Avatar2} alt="Avatar2" />
         <h5>AITCO Profile</h5>
-        <p>{"Advanced International Trade Company"}</p>
+        <p>{"Advanced International Trade Co"}</p>
       </div>
       <div className="right-column">
         <div className="right-column__preview-shadow">
