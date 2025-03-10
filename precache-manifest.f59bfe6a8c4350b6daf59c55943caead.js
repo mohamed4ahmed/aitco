@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c68c897a819a5e762d7806d95f92c47",
+    "revision": "bba010b9c57dafe33052893ebc5d2392",
     "url": "/aitco/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aitco/static/css/2.43e3cdd6.chunk.css"
   },
   {
-    "revision": "d66a01542c5c7cb37d8c",
+    "revision": "4975b9924a7db724e13a",
     "url": "/aitco/static/css/main.9a809218.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aitco/static/js/2.8d3e6d51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d66a01542c5c7cb37d8c",
-    "url": "/aitco/static/js/main.7786e0fd.chunk.js"
+    "revision": "4975b9924a7db724e13a",
+    "url": "/aitco/static/js/main.cfa61f8f.chunk.js"
   },
   {
     "revision": "ae9010809a155c41525c",

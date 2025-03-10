@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aitco/static/css/main.9a809218.chunk.css",
-    "main.js": "/aitco/static/js/main.7786e0fd.chunk.js",
-    "main.js.map": "/aitco/static/js/main.7786e0fd.chunk.js.map",
+    "main.js": "/aitco/static/js/main.cfa61f8f.chunk.js",
+    "main.js.map": "/aitco/static/js/main.cfa61f8f.chunk.js.map",
     "runtime-main.js": "/aitco/static/js/runtime-main.48bda9c4.js",
     "runtime-main.js.map": "/aitco/static/js/runtime-main.48bda9c4.js.map",
     "static/css/2.43e3cdd6.chunk.css": "/aitco/static/css/2.43e3cdd6.chunk.css",
     "static/js/2.8d3e6d51.chunk.js": "/aitco/static/js/2.8d3e6d51.chunk.js",
     "static/js/2.8d3e6d51.chunk.js.map": "/aitco/static/js/2.8d3e6d51.chunk.js.map",
     "index.html": "/aitco/index.html",
-    "precache-manifest.460ab0eb80ee5294f46f6be35d27159c.js": "/aitco/precache-manifest.460ab0eb80ee5294f46f6be35d27159c.js",
+    "precache-manifest.f59bfe6a8c4350b6daf59c55943caead.js": "/aitco/precache-manifest.f59bfe6a8c4350b6daf59c55943caead.js",
     "service-worker.js": "/aitco/service-worker.js",
     "static/css/2.43e3cdd6.chunk.css.map": "/aitco/static/css/2.43e3cdd6.chunk.css.map",
     "static/css/main.9a809218.chunk.css.map": "/aitco/static/css/main.9a809218.chunk.css.map",
@@ -38,6 +38,6 @@
     "static/css/2.43e3cdd6.chunk.css",
     "static/js/2.8d3e6d51.chunk.js",
     "static/css/main.9a809218.chunk.css",
-    "static/js/main.7786e0fd.chunk.js"
+    "static/js/main.cfa61f8f.chunk.js"
   ]
 }
